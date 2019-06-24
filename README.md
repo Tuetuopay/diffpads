@@ -13,6 +13,12 @@ Drop in the KiCAD plugin directory. It can also be run from the terminal with:
 Note the UI (both TUI and GUI) are very crude, staying in line with the user
 unfriendlyness of KiCAD.
 
+## Screens
+
+Before (best I could do by hand) and after.
+
+![versus](https://github.com/Tuetuopay/diffpads/raw/master/screens/comparison.png)
+
 ## License?
 
 BeerWare.
